@@ -1,0 +1,33 @@
+
+header {
+    background-color: #3498db; 
+    padding: 20px; 
+    text-align: center;
+}
+    table, th, td {
+      border: 3px solid rgb(255, 255, 255);
+      border-collapse: ;
+      text-align: center;
+      padding: 20px;
+    }
+    th {
+      background-color: ##ADD8E6;
+    }
+    h1 {
+        color: black;
+    }
+    nav {
+     border-bottom: 2px solid black;
+    }
+    a {
+        font-size: 18px;
+    }
+    
+    footer {
+        text-align: center;
+    }
+    .box {
+        background-color: lightgrey;
+        padding: 20px;
+    }
+    
